@@ -12,9 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+  👋 Hi there! I'm <b>Data Engineer</b>.🚀<br/>
+  I have experience almost 1 year of data pipeline development for sensor data.<br/>
+  
+  I enjoy riding a bike.🚲<br/>
+  Sometimes I like to analyze economic data.<br/>
+  I hope to do something worthwhile to someone.✨ <br/><br/>
+</p>
 
-👋 Hi there! I'm Data Engineer.
-I want to give value to people who need data.
 
-I enjoy riding a bike.🚲
-Sometimes I like to analyze economic data.
+
