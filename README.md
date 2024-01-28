@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-  👋 Hi there! I'm <b>Data Engineer</b>.🚀<br/>
-  I have experience almost 1 year of data pipeline development for sensor data.<br/>
-  
-  I enjoy riding a bike.🚲<br/>
-  Sometimes I like to analyze economic data.🔎<br/>
+  👋 Hi there! I'm <b>Software Engineer</b>.🚀<br/>
+    
   I hope to do something worthwhile to someone.✨ <br/><br/>
+
+  linkedin: www.linkedin.com/in/kangwhi-kim-6155421b4
 </p>
 
 
